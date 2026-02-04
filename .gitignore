@@ -1,0 +1,28 @@
+# Jupyter Notebook and IPython files
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[co]
+
+# Editor backup files
+*~
+
+# Log files
+*.log
+magnetflow.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS-generated files
+.DS_Store
+thumbs.db
+
+# Colab-specific files and directories
+/content/drive/
+/content/downloads/
+/content/*.zip
+/content/*.7z
+/content/.ipynb_history
