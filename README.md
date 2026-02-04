@@ -3,7 +3,10 @@
 <!-- Badges Section -->
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/augusto-mate/google-drive-magnet-flow/blob/main/google_drive_magnet_flow.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.x](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
+
+<!-- Language Switcher -->
+> *Versão em [Português](README-pt.md) disponível.*
 
 **Google Drive Magnet Flow** is a powerful and privacy-focused Google Colab notebook designed to streamline the process of downloading magnet links, optionally encrypting the content, and securely uploading it directly to your Google Drive. This project ensures efficient management of your downloads with enhanced security and automatic cleanup.
 
