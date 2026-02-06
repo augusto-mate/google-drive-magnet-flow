@@ -1,4 +1,4 @@
-# Google Drive Magnet Flow
+# Drive Magnet Flow
 
 <!-- Secção de Emblemas -->
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/augusto-mate/google-drive-magnet-flow/blob/main/google_drive_magnet_flow.ipynb)
@@ -8,7 +8,7 @@
 <!-- Seletor de idioma -->
 > *[English](README.md) version available.*
 
-**Google Drive Magnet Flow** é um notebook Google Colab poderoso e focado em privacidade, projetado para otimizar o processo de download de links magnet, criptografar opcionalmente o conteúdo e fazer upload seguro diretamente para o seu Google Drive. Este projeto garante o gerenciamento eficiente dos seus downloads com segurança aprimorada e limpeza automática.
+**Drive Magnet Flow** é um notebook Google Colab poderoso e focado em privacidade, projetado para otimizar o processo de download de links magnet, criptografar opcionalmente o conteúdo e fazer upload seguro diretamente para o seu Google Drive. Este projeto garante o gerenciamento eficiente dos seus downloads com segurança aprimorada e limpeza automática.
 
 ### Funcionalidades:
 
@@ -33,7 +33,9 @@
 
 ## Aviso Legal
 
-Este projeto é fornecido apenas para fins educacionais e de pesquisa. O desenvolvedor não apoia ou endossa qualquer uso ilegal desta ferramenta. Os usuários são inteiramente responsáveis por suas ações e pelo cumprimento de todas as leis e regulamentos aplicáveis em suas respectivas jurisdições. Use esta ferramenta por sua conta e risco.
+Este projeto é fornecido apenas para fins educacionais e de pesquisa e é distribuído “como está”, sem qualquer tipo de garantia. O uso deste projeto é por sua conta e risco. O desenvolvedor não endossa nem apoia qualquer uso ilegal, e os utilizadores são os únicos responsáveis pelo cumprimento de todas as leis e regulamentos aplicáveis nas suas respectivas jurisdições.  
+
+Este projeto é um projeto independente de código aberto e não tem qualquer relação oficial com a Google LLC. Google Drive é uma marca comercial da Google LLC. As referências ao “Google Drive” são estritamente para fins descritivos, relacionados com a interoperabilidade com o serviço Google Drive. O projeto foi renomeado para evitar qualquer potencial confusão de marcas comerciais.
 
 ---
 
@@ -50,4 +52,4 @@ Este projeto está licenciado sob a **Licença MIT** — veja o arquivo [LICENSE
 
 ### Inspiração
 
-> "E tudo quanto fizerdes, fazei-o de todo o coração, como para o Senhor e não para homens." (Colossenses 3:23)
+> "E tudo o que fizerdes, fazei-o de coração, como para o Senhor, e não para os homens, sabendo que do Senhor recebereis a recompensa da herança, pois servis ao Senhor Cristo." (Colossenses 3:23-24)
