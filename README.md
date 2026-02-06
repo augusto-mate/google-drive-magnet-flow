@@ -1,4 +1,4 @@
-# Google Drive Magnet Flow
+# Drive Magnet Flow
 
 <!-- Badges Section -->
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/augusto-mate/google-drive-magnet-flow/blob/main/google_drive_magnet_flow.ipynb)
@@ -8,7 +8,7 @@
 <!-- Language Switcher -->
 > *Versão em [Português](README-pt.md) disponível.*
 
-**Google Drive Magnet Flow** is a powerful and privacy-focused Google Colab notebook designed to streamline the process of downloading magnet links, optionally encrypting the content, and securely uploading it directly to your Google Drive. This project ensures efficient management of your downloads with enhanced security and automatic cleanup.
+**Drive Magnet Flow** is a powerful and privacy-focused Google Colab notebook designed to streamline the process of downloading magnet links, optionally encrypting the content, and securely uploading it directly to your Google Drive. This project ensures efficient management of your downloads with enhanced security and automatic cleanup.
 
 ### Features:
 
@@ -33,7 +33,9 @@
 
 ## Legal Notice
 
-This project is provided for educational and research purposes only. The developer does not support or endorse any illegal use of this tool. Users are solely responsible for their actions and for complying with all applicable laws and regulations in their respective jurisdictions. Use this tool at your own risk.
+This project is provided for educational and research purposes only and is distributed "as is", without warranty of any kind. Use of this project is at your own risk. The developer does not endorse or support any illegal use, and users are solely responsible for complying with all applicable laws and regulations in their respective jurisdictions.  
+
+This project is an independent open-source project and has no official relationship with Google LLC. Google Drive is a trademark of Google LLC. References to "Google Drive" are strictly for descriptive purposes, related to interoperability with the Google Drive service. The project was renamed to avoid any potential trademark confusion.
 
 ---
 
@@ -50,4 +52,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ### Inspiration
 
-> "And whatsoever ye do, do *it* heartily, as to the Lord, and not unto men." (Colossians 3:23)
+> "And whatsoever ye do, do it heartily, as to the Lord, and not unto men; Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ." (Colossians 3:23-24)
