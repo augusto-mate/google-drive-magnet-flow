@@ -1,7 +1,7 @@
 # Drive Magnet Flow
 
 <!-- Secção de Emblemas -->
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/augusto-mate/google-drive-magnet-flow/blob/main/google_drive_magnet_flow.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/augusto-mate/drive-magnet-flow/blob/main/drive_magnet_flow.ipynb)
 [![Licença: MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
